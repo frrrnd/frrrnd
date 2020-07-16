@@ -1,16 +1,14 @@
-### Hi there 👋
+### Olá 👋
 
-<!--
-**frrrnd/frrrnd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Trabalho com ux, ui e front end design com foco em html e css.
 
-Here are some ideas to get you started:
+Aqui no meu github, você pode encontrar alguns projetos open-source feitos e usados por mim (inclusive meu [site](https://frrrnd.design)).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+[<img src="https://img.shields.io/badge/twitter-00acee.svg">](https://twitter.com/frrrnd)
+
+[<img src="https://img.shields.io/badge/dribbble-ea4c89.svg">](https://twitter.com/frrrnd)
+
+[<img src="https://img.shields.io/badge/instagram-222222.svg">](https://twitter.com/frrrnd)
+
+---
